@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg852"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="box-front.svg">
+  <defs
+     id="defs846" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="20.496926"
+     inkscape:cy="571.86933"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata849">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0,0.08547009,-0.08547009,0,479.12312,-163.9041)"
+       style="fill:none;stroke:#dc143c;stroke-width:2"
+       class="cut"
+       id="g15">
+      <path
+         inkscape:connector-curvature="0"
+         class="cut"
+         id="front"
+         d="m 4595.8,5482.7 h -1170 v 0 c 0,-64.6173 -52.3827,-117 -117,-117 v 0 0 c -64.6173,0 -117,52.3827 -117,117 v 0 h -1170"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+    <g
+       transform="matrix(0,0.08547009,-0.08547009,0,479.12312,-163.9041)"
+       style="fill:none;stroke:#00bfff;stroke-width:2;stroke-dasharray:5, 5"
+       class="fold"
+       id="g31">
+      <path
+         inkscape:connector-curvature="0"
+         class="fold"
+         id="hor-1"
+         d="M 2279.2,4642.6 H 4338.4" />
+      <path
+         inkscape:connector-curvature="0"
+         class="fold"
+         id="radial-1"
+         d="m 4338.4,4642.6 257.4,840.1" />
+      <path
+         inkscape:connector-curvature="0"
+         class="fold"
+         id="radial-2"
+         d="m 2279.2,4642.6 -257.4,840.1" />
+    </g>
+    <path
+       style="fill:none;stroke:#dc143c;stroke-width:0.171;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 82.319679,30.89933 17.371854,4.711073 0,166.241647 -17.371854,5.04729"
+       id="path1488"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-157.6187"
+       y="93.903824"
+       id="text826"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan824"
+         x="-157.6187"
+         y="93.903824"
+         style="stroke-width:0.26458332">Glue to bottom</tspan></text>
+  </g>
+</svg>

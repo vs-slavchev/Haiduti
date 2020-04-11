@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2167"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="box-sides.svg">
+  <defs
+     id="defs2161" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="213.25416"
+     inkscape:cy="560.0028"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0.07452275,-0.04185088,0.04185088,0.07452275,-188.93746,-182.86155)"
+       style="fill:none;stroke:#dc143c;stroke-width:2"
+       class="cut"
+       id="g15">
+      <path
+         inkscape:connector-curvature="0"
+         class="cut"
+         id="front"
+         d="m 2021.8,5482.7 -10.2,-5.7 -139.5,82.7 c -21.5768,12.7885 -48.3374,13.0934 -70.2,0.8 L 1087.5,5159 393.7,4769.1 c -31.72877,-17.8213 -44.57834,-56.9343 -29.6,-90.1 l 46.1,-101.9 -176.2,-242 499,-561.4 261,146.7 188.3,-229.7 1096.9,616.4 v 335.5 l 148.6207,138.5919 -192.8064,637.3004 z"
+         sodipodi:nodetypes="cccccccccccccc" />
+    </g>
+    <g
+       transform="matrix(0.07452275,-0.04185088,0.04185088,0.07452275,-188.93746,-182.86155)"
+       style="fill:none;stroke:#00bfff;stroke-width:2;stroke-dasharray:5, 5"
+       class="fold"
+       id="g31">
+      <path
+         inkscape:connector-curvature="0"
+         class="fold"
+         id="LINE5"
+         d="M 2011.6,5477 410.2,4577.1" />
+      <path
+         inkscape:connector-curvature="0"
+         class="fold"
+         id="LINE6"
+         d="M 410.2,4577.1 994,3920.4" />
+      <path
+         inkscape:connector-curvature="0"
+         class="fold"
+         id="LINE7"
+         d="m 994,3920.4 1285.2,722.2" />
+      <path
+         inkscape:connector-curvature="0"
+         class="fold"
+         id="radial-2"
+         d="m 2279.2,4642.6 -257.4,840.1" />
+    </g>
+    <g
+       transform="matrix(0.07450716,0.04187863,-0.04187863,0.07450716,-95.099678,-346.49063)"
+       style="fill:none;stroke:#dc143c;stroke-width:2"
+       class="cut"
+       id="g15-6">
+      <path
+         inkscape:connector-curvature="0"
+         class="cut"
+         id="front-2"
+         d="m 4338.4,4642.6 v -335.5 l 1096.9,-616.4 188.3,229.7 260.9,-146.7 499.1,561.4 -176.3,242 46.1,101.9 c 14.9949,33.1404 2.1914,72.2454 -29.5,90.1 l -693.8,389.9 -714.5,401.5 c -21.8626,12.2934 -48.6232,11.9885 -70.2,-0.8 L 4606,5477 l -10.2,5.7"
+         sodipodi:nodetypes="cccccccccccccc" />
+    </g>
+    <g
+       transform="matrix(0.07450716,0.04187863,-0.04187863,0.07450716,-95.099678,-346.49063)"
+       style="fill:none;stroke:#00bfff;stroke-width:2;stroke-dasharray:5, 5"
+       class="fold"
+       id="g31-6">
+      <path
+         inkscape:connector-curvature="0"
+         class="fold"
+         id="path18"
+         d="M 4338.4,4642.6 5623.6,3920.4" />
+      <path
+         inkscape:connector-curvature="0"
+         class="fold"
+         id="path20"
+         d="m 5623.6,3920.4 583.7,656.7" />
+      <path
+         inkscape:connector-curvature="0"
+         class="fold"
+         id="LINE4"
+         d="M 6207.3,4577.1 4606,5477" />
+      <path
+         inkscape:connector-curvature="0"
+         class="fold"
+         id="radial-1"
+         d="m 4338.4,4642.6 257.4,840.1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-114.069"
+       y="50.717834"
+       id="text828"
+       transform="rotate(-77.451824)"
+       inkscape:transform-center-x="-4.8643054"
+       inkscape:transform-center-y="2.80633"><tspan
+         sodipodi:role="line"
+         id="tspan826"
+         x="-114.069"
+         y="50.717834"
+         style="font-size:7.05555534px;stroke-width:0.26458332">glue to back</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="226.03807"
+       y="-126.97385"
+       id="text828-3"
+       transform="rotate(77.627882)"
+       inkscape:transform-center-x="5.7751002"
+       inkscape:transform-center-y="-0.41752031"><tspan
+         sodipodi:role="line"
+         id="tspan826-6"
+         x="226.03807"
+         y="-126.97385"
+         style="font-size:7.05555534px;stroke-width:0.26458332">glue to back</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="78.65609"
+       y="56.833546"
+       id="text828-7"
+       transform="rotate(0.10444679)"
+       inkscape:transform-center-x="1.6491813"
+       inkscape:transform-center-y="5.517979"><tspan
+         sodipodi:role="line"
+         id="tspan826-5"
+         x="78.65609"
+         y="56.833546"
+         style="font-size:7.05555534px;stroke-width:0.26458332">glue to bottom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="73.770096"
+       y="170.0871"
+       id="text828-7-3"
+       transform="rotate(0.1044468)"
+       inkscape:transform-center-x="1.6491813"
+       inkscape:transform-center-y="5.517979"><tspan
+         sodipodi:role="line"
+         id="tspan826-5-5"
+         x="73.770096"
+         y="170.0871"
+         style="font-size:7.05555534px;stroke-width:0.26458332">glue to bottom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="115.06635"
+       y="-163.65298"
+       id="text828-6"
+       transform="rotate(78.092485)"
+       inkscape:transform-center-x="5.9521826"
+       inkscape:transform-center-y="-0.42389284"><tspan
+         sodipodi:role="line"
+         id="tspan826-2"
+         x="115.06635"
+         y="-163.65298"
+         style="font-size:7.05555534px;stroke-width:0.26458332">glue to front</tspan></text>
+    <path
+       style="fill:none;stroke:#dc143c;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 33.716457,181.10256 -18.188098,7.5731 -11.2253197,46.77216 13.4093237,19.02776"
+       id="path902"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-227.50421"
+       y="68.326218"
+       id="text828-6-9"
+       transform="rotate(-76.810388)"
+       inkscape:transform-center-x="-4.8608414"
+       inkscape:transform-center-y="2.8650599"><tspan
+         sodipodi:role="line"
+         id="tspan826-2-1"
+         x="-227.50421"
+         y="68.326218"
+         style="font-size:7.05555534px;stroke-width:0.26458332">glue to front</tspan></text>
+  </g>
+</svg>

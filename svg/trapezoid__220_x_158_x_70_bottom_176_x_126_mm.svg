@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox='0 0 7020 6435' width='600mm' height='550mm'>
+    <title>Trapezoid Box</title>
+<style type="text/css" >
+<![CDATA[
+text {font-family: sans-serif;font-size: 10px; }]]>
+</style>
+
+<text x='117' y='117'>Trapezoid Box: page1</text>
+<text x='117' y='175.5'>220 x 158 x 70 bottom 176 x 126 (mm)</text>
+<text x='117' y='6376.5'>Created using templatemaker.nl Copyright. Commercial use allowed but do not re-publish digitally or in print.</text>
+    <g class='cut'  stroke='rgb(220,20,60)' fill='none' stroke-width='2'>
+      <path class='cut' id='front' d='M 2279.2, 4642.6  2279.2, 3168.4 2021.8, 2328.3 2021.8, 468 2063.1, 333.3 A140.4,140.4 0 0,1  2197.3, 234 L 3308.8, 234 4420.3, 234 A140.4,140.4 0 0,1  4554.5, 333.3 L 4595.8, 468 4595.8, 2328.3 4338.4, 3168.4 4338.4, 4642.6 4338.4, 4307.1 5435.3, 3690.7 5623.6, 3920.4 5884.5, 3773.7 6383.6, 4335.1 6207.3, 4577.1 6253.4, 4679 A70.2,70.2 0 0,1  6223.9, 4769.1 L 5530.1, 5159 4815.6, 5560.5 A70.2,70.2 0 0,1  4745.4, 5559.7 L 4606, 5477 4595.8, 5482.7 3425.8, 5482.7 3425.8, 5482.7 A117,117 0 0,0  3308.8, 5365.7 L 3308.8, 5365.7 3308.8, 5365.7 A117,117 0 0,0  3191.8, 5482.7 L 3191.8, 5482.7 2021.8, 5482.7 2011.6, 5477 1872.1, 5559.7 A70.2,70.2 0 0,1  1801.9, 5560.5 L 1087.5, 5159 393.7, 4769.1 A70.2,70.2 0 0,1  364.1, 4679 L 410.2, 4577.1 234, 4335.1 733, 3773.7 994, 3920.4 1182.3, 3690.7 2279.2, 4307.1 2279.2, 4642.6' />
+      <path class='cut' id='LINE2' d='M 2021.8, 468  2080.3, 468 2080.3, 479.7' />
+      <path class='cut' id='LINE3' d='M 4595.8, 468  4537.3, 468 4537.3, 479.7' />
+    </g>
+    <g class='fold'  stroke='rgb(0, 191, 255)' fill='none' stroke-width='2' stroke-dasharray='5,5'>
+      <path class='fold' id='LINE1' d='M 2080.3, 479.7  4537.3, 479.7' />
+      <path class='fold' id='LINE2' d='M 4338.4, 4642.6  5623.6, 3920.4' />
+      <path class='fold' id='LINE3' d='M 5623.6, 3920.4  6207.3, 4577.1' />
+      <path class='fold' id='LINE4' d='M 6207.3, 4577.1  4606, 5477' />
+      <path class='fold' id='LINE5' d='M 2011.6, 5477  410.2, 4577.1' />
+      <path class='fold' id='LINE6' d='M 410.2, 4577.1  994, 3920.4' />
+      <path class='fold' id='LINE7' d='M 994, 3920.4  2279.2, 4642.6' />
+      <path class='fold' id='hor-1' d='M 2279.2, 4642.6  4338.4, 4642.6' />
+      <path class='fold' id='hor-2' d='M 2279.2, 3168.4  4338.4, 3168.4' />
+      <path class='fold' id='hor-32' d='M 2021.8, 2328.3  4595.8, 2328.3' />
+      <path class='fold' id='radial-1' d='M 4338.4, 4642.6  4595.8, 5482.7' />
+      <path class='fold' id='radial-2' d='M 2279.2, 4642.6  2021.8, 5482.7' />
+    </g>
+</svg>
