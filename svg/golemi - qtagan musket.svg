@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.55861435"
-     inkscape:cx="47.040553"
-     inkscape:cy="481.43481"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="69.990731"
+     inkscape:cy="486.88102"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -52,10 +52,32 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="laser cut">
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -0.03986346,-0.01598704 V 1052.3424 H 744.05317 V -0.01598704 Z"
+       id="path1049"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 744.05319,526.16323 H -0.03988346"
+       id="path1049-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 372.00665,1052.3424 V -0.01599704"
+       id="path1049-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
      inkscape:label="hartiq"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true">
     <rect
        style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.04816818;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -68,30 +90,29 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="tekst"
-     sodipodi:insensitive="true">
+     inkscape:label="tekst">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="196.15872"
-       y="-684.60919"
+       x="217.82523"
+       y="-681.17389"
        id="text4759"
        transform="rotate(90)"><tspan
          sodipodi:role="line"
          id="tspan4761"
-         x="196.15872"
-         y="-684.60919"
+         x="217.82523"
+         y="-681.17389"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:UnBatang;-inkscape-font-specification:UnBatang">Ятаган</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4813"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="rotate(-90,146.1308,278.06286)"><flowRegion
+       transform="rotate(-90,156.44648,229.76019)"><flowRegion
          id="flowRegion4815"><rect
            transform="scale(-1)"
            id="rect4817"
-           width="331.4563"
-           height="223.62251"
+           width="410.65021"
+           height="257.80054"
            x="-328.47644"
            y="-441.1127" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:justify;text-anchor:start"
@@ -100,39 +121,27 @@
          id="flowPara4155"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:justify;text-anchor:start"
          id="flowPara4157">Според легендата майсторът ковач Ятаган Баба изобретява и дава името на този тип оръжие и на града Ятаган в югозападна Турция.</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="375.02017"
-       y="-428.47937"
-       id="text4825"
-       transform="rotate(90)"><tspan
-         sodipodi:role="line"
-         id="tspan4827"
-         x="375.02017"
-         y="-428.47937"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">9 щети</tspan></text>
-    <text
        transform="rotate(90)"
        id="text4152"
-       y="-685.867"
-       x="702.04559"
+       y="-683.78638"
+       x="664.81726"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:UnBatang;-inkscape-font-specification:UnBatang"
-         y="-685.867"
-         x="702.04559"
+         y="-683.78638"
+         x="664.81726"
          id="tspan4154"
          sodipodi:role="line">Майсторски мускет</tspan></text>
     <flowRoot
-       transform="rotate(-90,434.38867,561.49052)"
+       transform="rotate(-90,411.10126,501.26652)"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4156"
        xml:space="preserve"><flowRegion
          id="flowRegion4158"><rect
            y="-441.1127"
            x="-328.47644"
-           height="223.62251"
-           width="331.4563"
+           height="259.6991"
+           width="410.75879"
            id="rect4160"
            transform="scale(-1)" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:justify;text-anchor:start"
@@ -140,18 +149,62 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:justify;text-anchor:start"
          id="flowPara4240"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:justify;text-anchor:start"
-         id="flowPara4242">Оригиналната пушка е изработена от майстор Григорий Вяткин за цар Алексей Романов през 1654 година. Това красиво копие като подарък е способно да омилостиви дори и султан.</flowPara></flowRoot>    <text
-       transform="rotate(90)"
-       id="text4164"
-       y="-440.64755"
-       x="720.01123"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-         y="-440.64755"
-         x="720.01123"
-         id="tspan4166"
-         sodipodi:role="line">5 щети</tspan></text>
+         id="flowPara4242">Оригиналната пушка е изработена от майстор Григорий Вяткин за цар Алексей Романов през 1654 година. Това красиво копие като подарък е способно да омилостиви дори и султан.</flowPara></flowRoot>    <g
+       id="g136"
+       transform="translate(-28.737142,-3.3663453)">
+      <text
+         transform="rotate(90)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="366.11606"
+         y="-462.83652"
+         id="text4164-1-0-2-6"><tspan
+           sodipodi:role="line"
+           id="tspan4166-1-8-7-1"
+           x="366.11606"
+           y="-462.83652"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:1px">9</tspan></text>
+      <text
+         transform="rotate(90)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="386.9711"
+         y="-467.49149"
+         id="text4164-7-1-0-8"><tspan
+           sodipodi:role="line"
+           id="tspan4166-0-6-9-7"
+           x="386.9711"
+           y="-467.49149"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:1px">щети</tspan></text>
+    </g>
+    <g
+       id="g142"
+       transform="translate(-32.951864,3.4132276)">
+      <text
+         transform="rotate(90)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="616.14423"
+         y="-467.05124"
+         id="text4164-1-0-2-6-3"><tspan
+           sodipodi:role="line"
+           id="tspan4166-1-8-7-1-6"
+           x="616.14423"
+           y="-467.05124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:1px">5</tspan></text>
+      <text
+         transform="rotate(90)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="636.99927"
+         y="-471.70621"
+         id="text4164-7-1-0-8-7"><tspan
+           sodipodi:role="line"
+           id="tspan4166-0-6-9-7-5"
+           x="636.99927"
+           y="-471.70621"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:1px">щети</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"

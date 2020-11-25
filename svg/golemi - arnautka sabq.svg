@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.78999999"
-     inkscape:cx="448.16405"
-     inkscape:cy="452.89527"
+     inkscape:zoom="1"
+     inkscape:cx="432.71308"
+     inkscape:cy="660.9026"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -55,7 +55,7 @@
      inkscape:label="hartiq"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline;opacity:1"
+     style="display:none;opacity:1"
      sodipodi:insensitive="true">
     <rect
        style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.04816818;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -67,69 +67,78 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="laser cut">
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -0.09964469,0.00640441 V 1052.3647 H 743.9934 V 0.00640441 Z"
+       id="path1049"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 743.99342,526.18561 H -0.09965469"
+       id="path1049-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 371.94687,1052.3647 V 0.00639341"
+       id="path1049-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="tekst"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="168.15872"
-       y="-684.60919"
+       x="201.98816"
+       y="-683.56158"
        id="text4759"
        transform="rotate(90)"><tspan
          sodipodi:role="line"
          id="tspan4761"
-         x="168.15872"
-         y="-684.60919"
+         x="201.98816"
+         y="-683.56158"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:UnBatang;-inkscape-font-specification:UnBatang">Арнаутка</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4813"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="rotate(-90,160.88552,246.566)"><flowRegion
+       transform="rotate(-90,173.95681,211.65304)"><flowRegion
          id="flowRegion4815"><rect
            transform="scale(-1)"
            id="rect4817"
-           width="331.4563"
-           height="223.62251"
+           width="411.79813"
+           height="265.05954"
            x="-328.47644"
            y="-441.1127" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:justify;text-anchor:start"
          id="flowPara4823">Дълга пушка правена за хайдути из гръцките и албанските земи. Когато момче станело на 14-тина години баща му му предавал семейните оръжия - ножове, пищови и най-важно арнаутката, и го учел да ги поддържа и използва умело.</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="202.61118"
-       y="-444.78922"
-       id="text4825"
-       transform="rotate(90)"><tspan
-         sodipodi:role="line"
-         id="tspan4827"
-         x="202.61118"
-         y="-444.78922"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">5 щети</tspan></text>
-    <text
        transform="rotate(90)"
        id="text4152"
-       y="-682.09344"
-       x="642.24683"
+       y="-683.49286"
+       x="613.21606"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:UnBatang;-inkscape-font-specification:UnBatang"
-         y="-682.09344"
-         x="642.24683"
+         y="-683.49286"
+         x="613.21606"
          id="tspan4154"
          sodipodi:role="line">Френска кавалеристка сабя</tspan></text>
     <flowRoot
-       transform="rotate(-90,431.4893,548.61631)"
+       transform="rotate(-90,428.95925,483.59695)"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4156"
        xml:space="preserve"><flowRegion
          id="flowRegion4158"><rect
            y="-441.1127"
            x="-328.47644"
-           height="223.62251"
-           width="331.4563"
+           height="276.66431"
+           width="410.42728"
            id="rect4160"
            transform="scale(-1)" /></flowRegion><flowPara
          id="flowPara4162"
@@ -137,19 +146,7 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:justify;text-anchor:start"
          id="flowPara4168"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:justify;text-anchor:start"
-         id="flowPara4170">Славата на сабята като елегантно и ефективно оръжие довела до използването й и от други полкове, включително и от хусарите.</flowPara></flowRoot>    <text
-       transform="rotate(90)"
-       id="text4164"
-       y="-436.76282"
-       x="633.88708"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-         y="-436.76282"
-         x="633.88708"
-         id="tspan4166"
-         sodipodi:role="line">5 щети</tspan></text>
-    <flowRoot
+         id="flowPara4170">Славата на сабята като елегантно и ефективно оръжие довела до използването й и от други полкове, включително и от хусарите.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4157"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0.01%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -165,7 +162,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold'">Coup de grâce</flowPara><flowPara
          id="flowPara4165"
          style="font-size:15px;line-height:1.25">1/6 шанс да убиеш противника с атака.</flowPara></flowRoot>    <flowRoot
-       transform="rotate(90,648.27716,493.64964)"
+       transform="rotate(90,650.15216,493.64964)"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0.01%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4162"
        xml:space="preserve"><flowRegion
@@ -179,7 +176,63 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold'"
          id="flowPara4169">Амортизация</flowPara><flowPara
          id="flowPara4171"
-         style="font-size:15px;line-height:1.25">След 4 изстрела се чупи.</flowPara></flowRoot>  </g>
+         style="font-size:15px;line-height:1.25">След 4 изстрела се чупи.</flowPara></flowRoot>    <g
+       id="g128"
+       transform="translate(3.141886,-40.858294)">
+      <text
+         transform="rotate(90)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="403.80048"
+         y="-431.42624"
+         id="text4164-1-0-2-6"><tspan
+           sodipodi:role="line"
+           id="tspan4166-1-8-7-1"
+           x="403.80048"
+           y="-431.42624"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:1px">5</tspan></text>
+      <text
+         transform="rotate(90)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="424.65552"
+         y="-436.08121"
+         id="text4164-7-1-0-8"><tspan
+           sodipodi:role="line"
+           id="tspan4166-0-6-9-7"
+           x="424.65552"
+           y="-436.08121"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:1px">щети</tspan></text>
+    </g>
+    <g
+       id="g134"
+       transform="translate(4.079386,28.698262)">
+      <text
+         transform="rotate(90)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="590.85919"
+         y="-430.48874"
+         id="text4164-1-0-2-6-3"><tspan
+           sodipodi:role="line"
+           id="tspan4166-1-8-7-1-6"
+           x="590.85919"
+           y="-430.48874"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:1px">5</tspan></text>
+      <text
+         transform="rotate(90)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="611.71423"
+         y="-435.14371"
+         id="text4164-7-1-0-8-7"><tspan
+           sodipodi:role="line"
+           id="tspan4166-0-6-9-7-5"
+           x="611.71423"
+           y="-435.14371"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:1px">щети</tspan></text>
+    </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"

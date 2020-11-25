@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.55861435"
-     inkscape:cx="265.53034"
-     inkscape:cy="724.42494"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="137.61152"
+     inkscape:cy="563.5329"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -53,9 +53,31 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="laser cut">
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -0.07006885,0.04687217 V 1052.4054 H 744.02298 V 0.04687217 Z"
+       id="path1049"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 744.023,526.22609 H -0.07008385"
+       id="path1049-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 371.97645,1052.4054 V 0.04686101"
+       id="path1049-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="hartiq"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -69,82 +91,113 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="tekst"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="90.586403"
-       y="-683.35132"
+       x="126.69117"
+       y="-683.52246"
        id="text4759"
        transform="rotate(90)"><tspan
          sodipodi:role="line"
          id="tspan4761"
-         x="90.586403"
-         y="-683.35132"
+         x="126.69117"
+         y="-683.52246"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:UnBatang;-inkscape-font-specification:UnBatang">Звездобройка бойлия</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4813"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="rotate(-90,157.74087,248.45279)"><flowRegion
+       transform="rotate(-90,181.64715,204.55802)"><flowRegion
          id="flowRegion4815"><rect
            transform="scale(-1)"
            id="rect4817"
-           width="331.4563"
-           height="223.62251"
+           width="410.86966"
+           height="280.23526"
            x="-328.47644"
            y="-441.1127" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:justify;text-anchor:start"
          id="flowPara4823">Правени от сливенски майстори, тези пушки са сложни и красиви, някои се състоят от повече от 4000 елемента и са инкрустирани и гравирани. Те са много издължени и тънки и следователно много точни на дълги разстояния, могат да улучат дори и звезда.</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="382.81366"
-       y="-452.26782"
-       id="text4825"
-       transform="rotate(90)"><tspan
-         sodipodi:role="line"
-         id="tspan4827"
-         x="382.81366"
-         y="-452.26782"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">12 щети</tspan></text>
-    <text
        transform="rotate(90)"
        id="text4152"
-       y="-683.35132"
-       x="691.65564"
+       y="-683.52246"
+       x="665.89258"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:UnBatang;-inkscape-font-specification:UnBatang"
-         y="-683.35132"
-         x="691.65564"
+         y="-683.52246"
+         x="665.89258"
          id="tspan4154"
          sodipodi:role="line">Майсторска брадва</tspan></text>
     <flowRoot
-       transform="rotate(-90,452.03647,505.327)"
+       transform="rotate(-90,479.77235,525.1265)"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4156"
        xml:space="preserve"><flowRegion
          id="flowRegion4158"><rect
            y="-441.1127"
            x="-328.47644"
-           height="223.62251"
-           width="331.4563"
+           height="229.24751"
+           width="225.98755"
            id="rect4160"
            transform="scale(-1)" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:justify;text-anchor:start"
-         id="flowPara4162">Едно е да търкаш с бичкия, друго е да замахнеш с брадва...</flowPara></flowRoot>    <text
-       transform="rotate(90)"
-       id="text4164"
-       y="-448.67505"
-       x="864.40387"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-         y="-448.67505"
-         x="864.40387"
-         id="tspan4166"
-         sodipodi:role="line">3 щети</tspan></text>
+         id="flowPara4162">Едно е да търкаш с бичкия, друго е да замахнеш с брадва...</flowPara></flowRoot>    <g
+       id="g114"
+       transform="translate(-6.5618188,-39.461633)">
+      <text
+         transform="rotate(90)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="928.5639"
+         y="-440.91888"
+         id="text4164-1-0-2"><tspan
+           sodipodi:role="line"
+           id="tspan4166-1-8-7"
+           x="928.5639"
+           y="-440.91888"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:1px">3</tspan></text>
+      <text
+         transform="rotate(90)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="949.41895"
+         y="-445.57379"
+         id="text4164-7-1-0"><tspan
+           sodipodi:role="line"
+           id="tspan4166-0-6-9"
+           x="949.41895"
+           y="-445.57379"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:1px">щети</tspan></text>
+    </g>
+    <g
+       id="g120"
+       transform="translate(-27.015878,-8.0338807)">
+      <text
+         transform="rotate(90)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="369.54779"
+         y="-461.16669"
+         id="text4164-1-0"><tspan
+           sodipodi:role="line"
+           id="tspan4166-1-8"
+           x="369.54779"
+           y="-461.16669"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:1px">12</tspan></text>
+      <text
+         transform="rotate(90)"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="404.11102"
+         y="-465.82166"
+         id="text4164-7-1"><tspan
+           sodipodi:role="line"
+           id="tspan4166-0-6"
+           x="404.11102"
+           y="-465.82166"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:1px">щети</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
